@@ -20,7 +20,7 @@ public class powertest {
     }
 
     @Test
-    public void three_raised_to_three_is_nine) {
+    public void three_raised_to_three_is_nine() {
         assert Power.powerFinder(3, 2) == 9;
     }
 }
